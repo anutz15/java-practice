@@ -1,0 +1,3 @@
+ArrayList part of collection framework
+Integer.MAX_VALUE
+For binary search- first sort the array
