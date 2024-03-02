@@ -1,3 +1,11 @@
 ArrayList part of collection framework
 Integer.MAX_VALUE
 For binary search- first sort the array
+
+In 2D strictly sorted matrix 
+in order to apply binary Search BS
+->find middle column and middle row, we get our initial mid value
+->compare it with target
+->if midValue==target element found
+->if midValue>target discard rows below midValue as they will be bigger than element ofc
+else opposite

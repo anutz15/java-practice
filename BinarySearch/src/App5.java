@@ -8,7 +8,7 @@ public class App5{
             {28,29,37,49},
             {33,34,38,50}
         };
-        System.out.println(Arrays.toString(search(arr,37)));
+        System.out.println(Arrays.toString(search(arr,90)));
     }
 
     static int[] search(int[][] matrix, int target){
